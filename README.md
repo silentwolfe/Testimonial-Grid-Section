@@ -55,4 +55,4 @@ Although i am a bit better than i was at grid, i still need to have some serious
 
 ## Author
 - Frontend Mentor - [@silentwolfe](https://www.frontendmentor.io/profile/silentwolfe)
-- Twitter - [@problmsolvr](https://www.twitter.com/problmsolvr)
+- Twitter - [@urfavour3](https://www.twitter.com/problmsolvr)
